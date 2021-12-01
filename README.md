@@ -1,8 +1,6 @@
-# Daily.Dev as New Tab
-***I dont recommend using this extension.This is for Trail purpose only.Get the official Extension From [official webpage](https://daily.dev/)***
+# Change Defult New Tab Chrome Extension
+
+Extension by by defult changes the new tab to daily.dev
 
 
-
-New tab As Daily.dev
-
-You can change the **Default New Tab** Website by changing the src in *newtabpage.html*
+You can change the **Default New Tab** Website by changing the iframe src in ***newtabpage.html***
