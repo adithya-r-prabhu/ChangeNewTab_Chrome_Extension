@@ -1,6 +1,3 @@
-# Change Defult New Tab Chrome Extension
+# Fancy New Tab Chrome Extension
 
-Extension by by defult changes the new tab to daily.dev
-
-
-You can change the **Default New Tab** Website by changing the iframe src in ***newtabpage.html***
+![icon-128](https://user-images.githubusercontent.com/83577193/147408251-7b9b4058-3dfd-4e07-b49c-45534c10377f.png)
